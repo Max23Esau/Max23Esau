@@ -1,7 +1,8 @@
-### Hi I'm Esaú Maximino 👋
+### I'm Esaú Maximino 👋
 Student of Platzi Master 💚, Frontend Developer in progress 💻 and cyclist  🚲
 <li>🔭 I'm currently learnign HTML, CSS/Sass, Animations on web and UI. 
 <li>✨ I like animations in the web and interactive design
+<img src="https://media.giphy.com/media/f9QQ8Z2HK5gRzH5EZj/giphy.gif" width="300px" height="100px" alt="image"/>
 
 <!--
 **Max23Esau/Max23Esau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<img src="https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg" alt="image" />-->
