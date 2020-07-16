@@ -6,3 +6,4 @@ Student of Platzi Master 💚, Frontend Developer in progress 💻 and cyclist  
   <img src="https://media.giphy.com/media/f9QQ8Z2HK5gRzH5EZj/giphy.gif" width="300px" height="100px" />
 </p>
 
+
