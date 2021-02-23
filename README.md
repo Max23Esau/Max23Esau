@@ -1,5 +1,5 @@
 ### I'm Esaú Maximino 👋
-Student of Platzi Master 💚, Frontend Developer in progress 💻 and cyclist  🚲
+Student of Platzi Master 💚, Frontend Developer with React 💻 and cyclist  🚲
 <li>🔭 I'm currently learnign HTML, CSS/Sass, JavaScript, Animations on web and UI.</li> 
 <li>✨ I like animations in the web and interactive design.</li>
 <p align="center">
