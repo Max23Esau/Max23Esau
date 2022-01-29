@@ -32,8 +32,8 @@ With the ideology of never stopping learning.
 
 </ul>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f9QQ8Z2HK5gRzH5EZj/giphy.gif" width="300px" height="100px" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=max23esau&show_icons=true&theme=aura_dark" width="60%" >
+</div>
 
 
