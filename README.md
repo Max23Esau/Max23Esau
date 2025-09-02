@@ -1,8 +1,12 @@
 <h1 align="center">¡Hola, soy Esaú Maximino!</h1>
-<h3 align="center">Desarrollador Web con la mentalidad de nunca parar de aprender</h3>
+<h3 align="center">Desarrollador Web</h3>
 
+<p align="center">Desarrollador Frontend con 4 años de experiencia. Especializado en la creación e implementación de interfaces de usuario (UI). Graduado del programa Platzi Master con enfoque en resolución de problemas utilizando JavaScript y React.js. Experiencia en la optimización de rendimiento web para mejorar la velocida de carga. Con la mentalidad de nunca parar de aprender.
+</p>
 
 <h3 align="center">🌐 Sobre mí</h3>
+
+
 
 <div align="center"> 
 
